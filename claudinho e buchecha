@@ -1,0 +1,175 @@
+# Recebe a letra que o usuário digitar
+letra = input("Digite uma letra do alfabeto: ")
+
+# Converte a letra em minúscula para evitar problemas de comparação
+
+# Verifica a letra digitada e mostra o objeto correspondente
+if letra == 'a':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'A':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'b':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'B':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'c':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'C':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'd':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'D':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'e':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'E':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'f':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'F':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'g':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'G':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'h':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'H':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'i':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'I':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'j':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'J':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'k':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'K':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'l':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'L':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'm':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'M':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'n':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'N':
+     letra = letra.lower()
+     print(letra)
+
+elif letra == 'o':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'O':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'p':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'P':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'q':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'Q':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'r':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'R':
+     letra = letra.lower()
+     print(letra)
+elif letra == 's':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'S':
+     letra = letra.lower()
+     print(letra)
+elif letra == 't':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'T':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'u':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'U':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'v':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'V':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'w':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'W':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'x':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'X':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'y':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'Y':
+     letra = letra.lower()
+     print(letra)
+elif letra == 'z':
+    letra = letra.upper()
+    print(letra)
+elif letra == 'Z':
+     letra = letra.lower()
+     print(letra)
